@@ -2,3 +2,6 @@ name = "PermabilityCharacterization"
 uuid = "74bf7fa0-77e3-4075-8690-2c6cd4fbc929"
 authors = ["xRetry <marcoschwarz.at@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+LanguageServer = "2b0e0bc5-e4fd-59b4-8912-456d1b03d8d7"
